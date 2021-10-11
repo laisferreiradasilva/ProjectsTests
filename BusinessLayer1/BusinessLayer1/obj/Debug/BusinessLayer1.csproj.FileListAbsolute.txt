@@ -1,0 +1,5 @@
+C:\Users\Adm\source\repos\BusinessLayer1\BusinessLayer1\bin\Debug\BusinessLayer1.dll
+C:\Users\Adm\source\repos\BusinessLayer1\BusinessLayer1\bin\Debug\BusinessLayer1.pdb
+C:\Users\Adm\source\repos\BusinessLayer1\BusinessLayer1\obj\Debug\BusinessLayer1.csproj.CoreCompileInputs.cache
+C:\Users\Adm\source\repos\BusinessLayer1\BusinessLayer1\obj\Debug\BusinessLayer1.dll
+C:\Users\Adm\source\repos\BusinessLayer1\BusinessLayer1\obj\Debug\BusinessLayer1.pdb
